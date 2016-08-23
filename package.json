@@ -1,14 +1,15 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-dark-alt-invisibles-syntax",
   "theme": "syntax",
-  "version": "1.3.0",
-  "description": "A dark syntax theme",
+  "version": "1.0.0",
+  "description": "A dark syntax theme with lighter invisible chars",
   "keywords": [
     "dark",
     "blue",
-    "syntax"
+    "syntax",
+    "invisibles"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/MattMulhern/one-dark-alternate-invisibles-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
